@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahTas123
-- 👀 I’m interested in React, React Native, Machine Learning, Deep Learning
-- 🌱 I’m currently learning React Native, React and Python
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, React, React Native, 
+- 🌱 I’m currently learning Python and Data Science
 - 📫 How to reach me abdullah.taseducation@gmail.com
 
 <!---
